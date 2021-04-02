@@ -1,0 +1,23 @@
+[
+    {
+        "ID": 1,
+        "FirstName": "Frank",
+        "LastName": "Smith",
+        "Email": "frank.smith@google.com",
+        "Active": true
+    },
+    {
+        "ID": 2,
+        "FirstName": "Mushtaq",
+        "LastName": "Elhajaj",
+        "Email": "mushtaq.elhajaj@google.com",
+        "Active": true
+    },
+    {
+        "ID": 3,
+        "FirstName": "Paul",
+        "LastName": "Lee",
+        "Email": "paul.lee@google.com",
+        "Active": false
+    }
+]

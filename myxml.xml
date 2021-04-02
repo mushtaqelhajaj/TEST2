@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+    <Person ID='1'>
+        <FirstName>Frank</FirstName>
+        <LastName>Smith</LastName>
+        <Email>frank.smith@google.com</Email>
+    </Person>
+
+    <Person ID='2'>
+        <FirstName>Maya</FirstName>
+        <LastName>Lee</LastName>
+       <Email>maya.lee@google.com</Email>
+    </Person>
+
+    <Person ID='3'>
+        <FirstName>Tunga</FirstName>
+        <LastName>Yagan</LastName>
+        <Email>tunga.yagan@google.com</Email>
+    </Person>
+
+</people>
