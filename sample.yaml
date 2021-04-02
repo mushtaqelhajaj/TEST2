@@ -1,0 +1,21 @@
+---
+people:
+  - Id: 1
+    Code: 2323.2323
+    FirstName: Finkel
+    LastName: Benja
+    Email: finkel.benja@google.com
+    Active: True
+  - Id: 2
+    Code: 445.45
+    FirstName: Memo
+    LastName: Kolo
+    Email: memo.kolo@gmail.com
+    Active: True
+---
+ANumber: 142
+AFloat: 191.312
+AString: Hello there Michael!
+AQuted String: "Qotes are prefectly acceptable"
+---
+
